@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Awareness is the key.
 
 You can use the [editor on GitHub](https://github.com/Jevin-gala/cognizant/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
